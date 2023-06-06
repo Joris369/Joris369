@@ -12,7 +12,7 @@
 </div>
 
 ---
-
+[![views](https://visitcount.itsvg.in/api?id=Joris369&icon=5&color=1)](https://visitcount.itsvg.in)
 <div>
 <h3> 🖥️🔧Languages and Tools: </h3>
   <div align="left">
