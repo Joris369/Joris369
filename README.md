@@ -5,6 +5,9 @@
   
   <a href="https://twitter.com/Joris369">
     <img src="https://img.shields.io/twitter/follow/Joris369?logo=twitter&style=for-the-badge">
+   <img src="https://img.shields.io/twitter/url?color=blue&label=My%20Linkedin&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjorgeluishdzg36%2F">
+   
+   
   </a>
 </div>
 
