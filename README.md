@@ -13,7 +13,32 @@
 
 ---
 [![views](https://visitcount.itsvg.in/api?id=Joris369&icon=5&color=1)](https://visitcount.itsvg.in)
-```
+
+```rust
+//More about me in a structure instance of rust
+#[derive(Debug)]
+struct Hobbies(String,String,String,String);
+#[derive(Debug)]
+struct MainLanguages(String,String);
+#[derive(Debug)]
+struct Skills(String,String,String,String);
+#[derive(Debug)]
+struct Love(String,String);
+#[derive(Debug)]
+struct Data {name:String, years_old:i64, country:String, hobbies:Hobbies, main_languages:MainLanguages,skills:Skills ,love:Love }
+
+fn main() {
+    let _me = Data{
+        name: String::from("Jorge"),
+        years_old: 25,
+        country: String::from("Mexican"),
+        hobbies:Hobbies(String::from("🎮Videogames"), String::from("💻Programming"), String::from("🐉Dungeons&Dragons"), String::from("📚Reading")),
+        main_languages:MainLanguages(String::from("🔥Javascript"), String::from("🐍Python")),
+        skills:Skills(String::from("⚡Electronics"), String::from("🔩💧Pneumatics&hydraulics"), String::from("Electric Control"), String::from("Control")),
+        love:Love(String::from("☕Coffe"), String::from("🐒Monkeys"))
+    };
+
+}
 
 ```
 
