@@ -45,6 +45,7 @@
     <h3> 🏆Certifications & Courses: </h3>
     <a href="https://www.credly.com/badges/c00a3ecd-8ff7-456c-b802-4f2789a26c6a"><img src="https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100px"></a>
     <a href="https://app.aluracursos.com/user/Jorls99/program/certificate"><img src="https://www.aluracursos.com/assets/api/programas/oracle-one.svg" width="100px"></a>
+    <a href="https://www.credly.com/badges/3aba0026-5383-4ff0-bd06-f3e007e19c5f"><img src="https://images.credly.com/size/340x340/images/d62dcf8f-1ad4-42d4-9a07-1c59e2d5d9e9/image.png" width="100px"></a>
   </div>
 </div>
 
