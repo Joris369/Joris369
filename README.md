@@ -17,27 +17,27 @@
 <h3> 🖥️🔧Languages and Tools: </h3>
   <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="50px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="50px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="50px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="50px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="50px">
-  </div>
-  
-  <h3> 📝Learning: </h3>
-  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="50px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="50px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="50px">
-    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px"/>
+
+
   </div>
-  
+<h3>Operating Systems and Distros:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="50px"/>
+
+
     
   <div align="left">
     <h3> 🏆Certifications & Courses: </h3>
