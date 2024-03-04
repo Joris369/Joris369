@@ -28,6 +28,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="50px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/>
+
 
 
   </div>
