@@ -6,7 +6,7 @@
 
 
 <div id="my-header" align="center">
- <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200px"><br><br>
+ 
   <h3>I am a Mechatronic engineer </h3>
   
   <a href="https://twitter.com/Joris369">
