@@ -50,7 +50,3 @@
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joris369&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-![Joris369's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joris369&show_icons=true&theme=transparent)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joris369&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
