@@ -1,4 +1,10 @@
-# Hi, I'm Jorge
+
+<h1>[Joris@Arch ~]$ whoami</h1>
+<p>
+  
+</p>
+
+
 <div id="my-header" align="center">
  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200px"><br><br>
   <h3>I am a Mechatronic engineer </h3>
